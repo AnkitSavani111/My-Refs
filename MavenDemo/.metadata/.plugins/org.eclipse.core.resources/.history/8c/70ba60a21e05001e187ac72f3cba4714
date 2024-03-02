@@ -1,0 +1,12 @@
+package com.demo.web.dao;
+import com.demo.web.Model.People;
+
+public class PeopleDao {
+	public People getPeople(int id){
+		People pip = new People();
+		pip.setPid(id);
+		pip.setPname("Pip");
+		pip.setPtech("Java");
+		return pip;
+	}
+}

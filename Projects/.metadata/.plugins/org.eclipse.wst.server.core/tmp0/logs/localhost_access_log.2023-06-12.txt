@@ -1,0 +1,9 @@
+127.0.0.1 - - [12/Jun/2023:11:57:48 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Jun/2023:11:57:49 +0530] "GET /NoteTaker/index.jsp HTTP/1.1" 200 2837
+0:0:0:0:0:0:0:1 - - [12/Jun/2023:11:57:49 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [12/Jun/2023:11:57:51 +0530] "GET /NoteTaker/add_notes.jsp HTTP/1.1" 200 3093
+0:0:0:0:0:0:0:1 - - [12/Jun/2023:11:57:53 +0530] "POST /NoteTaker/SaveNoteServlet HTTP/1.1" 500 5845
+127.0.0.1 - - [12/Jun/2023:11:59:04 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Jun/2023:11:59:04 +0530] "GET /NoteTaker/index.jsp HTTP/1.1" 200 2837
+0:0:0:0:0:0:0:1 - - [12/Jun/2023:11:59:05 +0530] "GET /NoteTaker/add_notes.jsp HTTP/1.1" 200 3093
+0:0:0:0:0:0:0:1 - - [12/Jun/2023:11:59:07 +0530] "POST /NoteTaker/SaveNoteServlet HTTP/1.1" 500 5845
